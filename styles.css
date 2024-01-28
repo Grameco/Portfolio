@@ -285,12 +285,12 @@ a {
   margin-top: 15rem;
   display: flex;
   flex-wrap: wrap;
-  gap: 90px;
+  gap: 60px;
 }
 
 .project-card {
   display: flex;
-  width: 450px;
+  width: 400px;
   height: 350px;
   background-size: cover;
   position: relative;
